@@ -41,8 +41,8 @@ My name is Matthew Wachira. I am a Computer Science 4th year student with a pass
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
-- 📧 **Direct Contact:** [MatthewWachira2003@gmail.com | 0700023066]
+- 📱 **Phone Number:** [0700023066]
+- 📧 **Email:** [MatthewWachira2003@gmail.com]
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
